@@ -16,13 +16,13 @@
   * [Permutace](https://cs.wikipedia.org/wiki/Permutace)
   * [Kombinace](https://cs.wikipedia.org/wiki/Kombinace)
 
-
-
 * [Kombinatorika na matematika.cz](http://matematika.cz/kombinatorika) \(Matematika po lopatě\)
 
   * [Variace](http://matematika.cz/variace) \([s opakováním](http://matematika.cz/variace-opakovani)\)
   * [Permutace](http://matematika.cz/permutace)
   * [Kombinace](http://matematika.cz/kombinace) \([s opakováním](http://matematika.cz/kombinace-opakovani)\)
+
+
 
 * [Matematika drsně a svižně:](http://www.math.muni.cz/~naca/ucebnice/e-ucebnice)
 
