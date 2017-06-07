@@ -19,7 +19,10 @@
 
 K afinním transformacím - hezky zpracovaná stránka na [wikiknihách](http://cs.wikibooks.org/wiki/Geometrie/Afinní_transformace_souřadnic), a slidy ke [Transformacím v rovině](http://www.fi.muni.cz/~xpelanek/IV122/slidy/lingebra.pdf) z předmětu IV122 \(první část slidů\).
 
+Dále slidy z MB101/MB201:
 
+* [Vektorové prostory](https://is.muni.cz/el/1433/jaro2013/MB101/um/39028946/lin-mod-jaro-13-pr-6-vektorove-prostory.pdf)
+* [Afinní geometrie](https://is.muni.cz/el/1433/jaro2013/MB101/um/39028946/lin-mod-jaro-13-pr-8-afinni-geometrie.pdf)
 
 > TODO: něco k "jejich geometrický význam"
 
