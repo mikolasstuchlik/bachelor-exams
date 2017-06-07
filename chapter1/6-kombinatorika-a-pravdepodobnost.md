@@ -22,14 +22,9 @@
   * [Permutace](http://matematika.cz/permutace)
   * [Kombinace](http://matematika.cz/kombinace) \([s opakováním](http://matematika.cz/kombinace-opakovani)\)
 
-
-
-* [Matematika drsně a svižně](http://www.math.muni.cz/~naca/ucebnice/e-ucebnice):
-
+* [Matematika drsně a svižně:](http://www.math.muni.cz/~naca/ucebnice/e-ucebnice)
   * 1.5 Permutace \(str 10\)
-
   * 1.6 Kombinace a variace \(str 11\)
-
   * 1.8 Výběr s opakováním \(str 13\)
 
 * Slidy z MB101/MB201:
