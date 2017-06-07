@@ -10,15 +10,11 @@
   * [Elementární kombinatorika](http://statnice.dqd.cz/home:inf:ap2)
   * [Pravděpodobnost a statistika](statnice.dqd.cz/home:inf:ap12)
 
-
-
 * [Kominatorika na wiki](https://cs.wikipedia.org/wiki/Kombinatorika)
 
   * [Variace](https://cs.wikipedia.org/wiki/Variace_%28kombinatorika%29)
   * [Permutace](https://cs.wikipedia.org/wiki/Permutace)
   * [Kombinace](https://cs.wikipedia.org/wiki/Kombinace)
-
-
 
 * [Kombinatorika na matematika.cz](http://matematika.cz/kombinatorika) \(Matematika po lopatě\)
 
@@ -26,11 +22,15 @@
   * [Permutace](http://matematika.cz/permutace)
   * [Kombinace](http://matematika.cz/kombinace) \([s opakováním](http://matematika.cz/kombinace-opakovani)\)
 
+
+
 * [Matematika drsně a svižně:](http://www.math.muni.cz/~naca/ucebnice/e-ucebnice)
 
   * 1.5 Permutace \(str 10\)
   * 1.6 Kombinace a variace \(str 11\)
   * 1.8 Výběr s opakováním \(str 13\)
+
+
 
 * Slidy z MB101/MB201:
 
