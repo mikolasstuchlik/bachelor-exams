@@ -19,3 +19,9 @@
 
 K afinním transformacím - hezky zpracovaná stránka na [wikiknihách](http://cs.wikibooks.org/wiki/Geometrie/Afinní_transformace_souřadnic), a slidy ke [Transformacím v rovině](http://www.fi.muni.cz/~xpelanek/IV122/slidy/lingebra.pdf) z předmětu IV122 \(první část slidů\).
 
+
+
+> TODO: něco k "jejich geometrický význam"
+
+
+
