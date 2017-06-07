@@ -8,15 +8,15 @@
 Vypracované otázky na dqd.cz:
 
 * [Elementární kombinatorika](http://statnice.dqd.cz/home:inf:ap2)
-* [Pravděpodobnost a statistika](statnice.dqd.cz/home:inf:ap12) 
+* [Pravděpodobnost a statistika](statnice.dqd.cz/home:inf:ap12) 
 
-[Kominatorika na wiki](https://cs.wikipedia.org/wiki/Kombinatorika)
+[Kominatorika na wiki](https://cs.wikipedia.org/wiki/Kombinatorika):
 
 * [Variace](https://cs.wikipedia.org/wiki/Variace_%28kombinatorika%29)
 * [Permutace](https://cs.wikipedia.org/wiki/Permutace)
 * [Kombinace](https://cs.wikipedia.org/wiki/Kombinace)
 
-[Kombinatorika na matematika.cz](http://matematika.cz/kombinatorika) \(Matematika po lopatě\)
+[Kombinatorika na matematika.cz](http://matematika.cz/kombinatorika) \(Matematika po lopatě\):
 
 * [Variace](http://matematika.cz/variace) \([s opakováním](http://matematika.cz/variace-opakovani)\)
 * [Permutace](http://matematika.cz/permutace)
