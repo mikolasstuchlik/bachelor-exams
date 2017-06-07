@@ -3,4 +3,5 @@
 * [Bakalářské státnice na FI MUNI](README.md)
 * [Teoretické základy informatiky a matematika](chapter1.md)
   * [1 -  Množiny, relace a zobrazení](chapter1/1-mno-ziny-relace-a-zobrazeni.md)
+  * [2 - Elementární teorie čísek](chapter1/elementarni-teorie-cisek.md)
 
