@@ -1,4 +1,4 @@
-## Množiny, relace a zobrazení
+## 2. Množiny, relace a zobrazení
 
 * Základní množinové operace.
 
@@ -17,6 +17,4 @@ Jako dobrý zdroj jsou dále slidy k [IB000](http://www.fi.muni.cz/~hlineny/Vyuk
 * [Uspořádané množiny](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect--5.pdf)
 
 Dále pak [uspořádané n-tice na Wikipedii](http://cs.wikipedia.org/wiki/Uspořádaná_n-tice)
-
-
 
