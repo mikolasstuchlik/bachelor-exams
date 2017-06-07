@@ -27,6 +27,9 @@ Vypracované otázky na dqd.cz:
 * 1.5 Permutace \(str 10\)
 * 1.6 Kombinace a variace \(str 11\)
 * 1.8 Výběr s opakováním \(str 13\)
+* 1.13 Pravděpodobnost \(str 17\)
+* 1.14 Náhodné jevy \(str 18\)
+* 1.20 Podmíněná praděpodobnost \(str 23\)
 
 Slidy z MB101/MB201:
 
