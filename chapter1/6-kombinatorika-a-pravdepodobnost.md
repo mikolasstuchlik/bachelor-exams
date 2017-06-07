@@ -10,6 +10,8 @@
   * [Elementární kombinatorika](http://statnice.dqd.cz/home:inf:ap2)
   * [Pravděpodobnost a statistika](statnice.dqd.cz/home:inf:ap12)
 
+  &nbsp;
+
 * [Kominatorika na wiki](https://cs.wikipedia.org/wiki/Kombinatorika)
 
   * [Variace](https://cs.wikipedia.org/wiki/Variace_%28kombinatorika%29)
@@ -21,8 +23,6 @@
   * [Variace](http://matematika.cz/variace) \([s opakováním](http://matematika.cz/variace-opakovani)\)
   * [Permutace](http://matematika.cz/permutace)
   * [Kombinace](http://matematika.cz/kombinace) \([s opakováním](http://matematika.cz/kombinace-opakovani)\)
-
-
 
 * [Matematika drsně a svižně:](http://www.math.muni.cz/~naca/ucebnice/e-ucebnice)
 
