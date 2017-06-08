@@ -9,7 +9,5 @@
   * [5. Lineární algebra II](/chapter1/5-linearni-algebra-II.md)
   * [6. Kombinatorika a pravděpodobnost](/chapter1/6-kombinatorika-a-pravdepodobnost.md)
   * [7. Statistika](/chapter1/7-statistika.md)
-  * [8. matematická analýza](/chapter1/8-matematicka-analyza.md)
-
-
+  * [8. Matematická analýza](/chapter1/8-matematicka-analyza.md)
 
