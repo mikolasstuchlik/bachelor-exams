@@ -11,7 +11,7 @@
 
 * [Otázka _Turingovy stroje a jazyky typu 0_](http://statnice.dqd.cz/home:inf:in12/) na dqd.cz
 * [Slajdy _Deterministické bezkontextové jazyky a jejich vlastnosti. Turingovy stroje._](https://is.muni.cz/el/1433/podzim2008/IB102/um/slajdy13.pdf) z IB102.
-* _Turingovy stroje a jazyky typu 0_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 109, kapitola 4\)
+* _4 Turingovy stroje a jazyky typu 0_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 105\)
 
 ### Problém zastavení.
 
