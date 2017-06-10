@@ -15,7 +15,7 @@
 
 ### Problém zastavení.
 
-* [Slidy _Nekonečné množiny a zastavení algoritmu_](Nekonečné množiny a zastavení algoritmu) z IB000
+* [Slidy _Nekonečné množiny a zastavení algoritmu _](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect-pp-11.pdf)z IB000
 * _nerozhodnutelnosti problému zastavení_ ve [Skriptech _Vyčíslitelnost_ z IB107](https://is.muni.cz/auth/el/1433/podzim2010/IB107/um/utv.pdf) \(str 23\)
 * [Otázka _Vyčíslitelnost_](http://statnice.dqd.cz/home:inf:in13) na dqd.cz
 
@@ -27,7 +27,7 @@
 ### Metoda redukce, diagonalizace.
 
 * [Otázka _Vyčíslitelnost_](http://statnice.dqd.cz/home:inf:in13) na dqd.cz
-* [Slidy _Nekonečné množiny a zastavení algoritmu_](Nekonečné množiny a zastavení algoritmu) z IB000
+* [Slidy _Nekonečné množiny a zastavení algoritmu _](http://www.fi.muni.cz/~hlineny/Vyuka/UINF/UInf-lect-pp-11.pdf)z IB000
 * _5.4 Redukce_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 136\)
 * _5.3 Diagonalizace_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 132\)
 * _9 Redukce_ ve [Skriptech _Vyčíslitelnost_ z IB107](https://is.muni.cz/auth/el/1433/podzim2010/IB107/um/utv.pdf) \(str 57\)
