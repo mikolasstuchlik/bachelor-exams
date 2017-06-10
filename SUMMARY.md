@@ -15,6 +15,7 @@
   * [11. Formální jazyky I](/chapter1/11-formalni-jazyky-I.md)
   * [12. Formální jazyky II](/chapter1/12-formalni-jazyky-II.md)
   * [13. Vyčíslitelnost](/chapter1/13-vycislitelnost.md)
+  * [14. Korektnost a složitost algoritmu](/chapter1/14-korektnost-a-slozitost-algoritmu.md)
   * [15. Složitost](/chapter1/15-slozitost.md)
 
 
