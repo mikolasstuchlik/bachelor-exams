@@ -14,6 +14,7 @@
   * [10. Grafové problémy](/chapter1/10-grafove-problemy.md)
   * [11. Formální jazyky I](/chapter1/11-formalni-jazyky-I.md)
   * [12. Formální jazyky II](/chapter1/12-formalni-jazyky-II.md)
+  * [13. Vyčíslitelnost](/chapter1/13-vycislitelnost.md)
 
 
 
