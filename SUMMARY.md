@@ -12,6 +12,7 @@
   * [8. Matematická analýza](/chapter1/8-matematicka-analyza.md)
   * [9. Grafy](/chapter1/9-grafy.md)
   * [10. Grafové problémy](/chapter1/10-grafove-problemy.md)
+  * [11. Formální jazyky I](/chapter1/11-formalni-jazyky-I.md)
 
 
 
