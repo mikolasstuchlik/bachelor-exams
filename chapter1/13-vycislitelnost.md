@@ -31,7 +31,6 @@
 * _5.4 Redukce_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 136\)
 * _5.3 Diagonalizace_ ve [Skriptech z IB005](http://www.fi.muni.cz/usr/kretinsky/afj_I.pdf) \(str 132\)
 * _9 Redukce_ ve [Skriptech _Vyčíslitelnost_ z IB107](https://is.muni.cz/auth/el/1433/podzim2010/IB107/um/utv.pdf) \(str 57\)
-* _10 Věta o rekurzi_ ve [Skriptech _Vyčíslitelnost_ z IB107](https://is.muni.cz/auth/el/1433/podzim2010/IB107/um/utv.pdf) \(str 61\)
 
 
 
