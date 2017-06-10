@@ -1,7 +1,7 @@
 # 14. Korektnost a složitost algoritmu
 
 * Parciální a totální korektnost, důkazy korektnosti.
-* Asymptotická složitost, $$\mathcal{O}$$-notace.
+* Asymptotická složitost, $$\mathcal{O}$$ -notace.
 * Zdůvodnění korektnosti a složitosti základních algoritmů \(např. řadicí algoritmy, binární vyhledávání\).
 
 > IB002, IB102/IB107
