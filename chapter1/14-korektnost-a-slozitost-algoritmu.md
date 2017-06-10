@@ -1,4 +1,4 @@
-# 14. Korektnost a složitost algoritmu
+$14. Korektnost a složitost algoritmu
 
 * Parciální a totální korektnost, důkazy korektnosti.
 * Asymptotická složitost, $$\mathcal{O}$$-notace.
@@ -11,7 +11,7 @@
 * [Otázka _Důkazy programů_](http://statnice.dqd.cz/home:inf:ap5) na dqd.cz
 * [Slajdy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdy.pdf) \(str 22\)
 
-### Asymptotická složitost, O-notace.
+### Asymptotická složitost, $$\mathcal{O}$$-notace.
 
 * [Otázka _Složitost_](http://statnice.dqd.cz/home:inf:in14) na dqd.cz
 * [Slajdy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdy.pdf) \(str 33\)
