@@ -1,4 +1,4 @@
-$14. Korektnost a složitost algoritmu
+# 14. Korektnost a složitost algoritmu
 
 * Parciální a totální korektnost, důkazy korektnosti.
 * Asymptotická složitost, $$\mathcal{O}$$-notace.
