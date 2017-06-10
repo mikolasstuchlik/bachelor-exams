@@ -14,7 +14,9 @@
 ### Asymptotická složitost, O-notace.
 
 * [Otázka _Složitost_](http://statnice.dqd.cz/home:inf:in14) na dqd.cz
-* [Slajdy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdy.pdf) \(str 33\)
+* [Slajdy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdy.pdf)
+  * Časová složitost \(str 19\)
+  * Asymptotická notace \(str 33\)
 
 ### Zdůvodnění korektnosti a složitosti základních algoritmů \(např. řadicí algoritmy, binární vyhledávání\).
 
