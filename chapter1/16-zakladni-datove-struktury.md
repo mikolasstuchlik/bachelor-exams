@@ -14,5 +14,9 @@ Halda/Prioritní fronta:
 * [Článek na KSP](https://www.ksp.sk/kucharka/halda)
 * [slajdy z IV003](https://is.muni.cz/auth/el/1433/jaro2016/IV003/um/IV003_2016_slajdy.pdf) \(str 68\)
 
+Hašování:
+
+* [slidy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdyIII.pdf) \(str 108\)
+
 
 
