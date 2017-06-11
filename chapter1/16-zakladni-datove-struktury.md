@@ -8,9 +8,7 @@
 * [Slidy _Základní datové typy_ z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdyIII.pdf)
 * [Otázka _Datové struktury a jejich implementace_](http://statnice.dqd.cz/home:inf:ap15) na dqd.cz
 
-
-
-Halda:
+Halda/Prioritní fronta:
 
 * [slajdy z IB002](https://is.muni.cz/el/1433/jaro2016/IB002/um/IB002_2016_slajdyII.pdf) \(str 25\)
 * [Článek na KSP](https://www.ksp.sk/kucharka/halda)
