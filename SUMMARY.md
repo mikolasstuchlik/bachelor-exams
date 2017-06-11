@@ -18,6 +18,7 @@
   * [14. Korektnost a složitost algoritmu](/chapter1/14-korektnost-a-slozitost-algoritmu.md)
   * [15. Složitost](/chapter1/15-slozitost.md)
   * [16. Základní datové struktury](/chapter1/16-zakladni-datove-struktury.md)
+  * [17 Datové struktury založené na stromech](/chapter1/17-datove-struktury-zalozene-na-stromech.md)
 
 
 
