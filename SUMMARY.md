@@ -19,6 +19,7 @@
   * [15. Složitost](/chapter1/15-slozitost.md)
   * [16. Základní datové struktury](/chapter1/16-zakladni-datove-struktury.md)
   * [17 Datové struktury založené na stromech](/chapter1/17-datove-struktury-zalozene-na-stromech.md)
+  * [18. Rekurzivní algoritmy](/chapter1/18-rekurzivni-algoritmy.md)
 
 
 
