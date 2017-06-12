@@ -21,6 +21,7 @@
   * [17 Datové struktury založené na stromech](/chapter1/17-datove-struktury-zalozene-na-stromech.md)
   * [18. Rekurzivní algoritmy](/chapter1/18-rekurzivni-algoritmy.md)
   * [19. Funkcionální programování](/chapter1/19-funkcionalni-programovani.md)
+  * [20. Logické programování](/chapter1/20-logicke-programovani.md)
 
 
 
