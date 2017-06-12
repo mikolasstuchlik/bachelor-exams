@@ -1,4 +1,4 @@
-## 2. Množiny, relace a zobrazení
+# 1. Množiny, relace a zobrazení
 
 * Základní množinové operace.
 

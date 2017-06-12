@@ -1,10 +1,9 @@
-## 2. Elementární teorie čísel
+# 2. Elementární teorie čísel
 
-- Dělitelnost, Euklidův algoritmus, modulární operace, prvočíselnost a její testování, aplikace teorie čísel \(RSA, DSA, lineární a polynomiální kódy\).
+* Dělitelnost, Euklidův algoritmus, modulární operace, prvočíselnost a její testování, aplikace teorie čísel \(RSA, DSA, lineární a polynomiální kódy\).
 
 > MB104/MB204
 
-  
 Ve starších otázkách není, něco je na wikipedii:
 
 * [Dělitelnost](http://cs.wikipedia.org/wiki/Dělitelnost)
