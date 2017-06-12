@@ -22,6 +22,5 @@
   * [18. Rekurzivní algoritmy](/chapter1/18-rekurzivni-algoritmy.md)
   * [19. Funkcionální programování](/chapter1/19-funkcionalni-programovani.md)
   * [20. Logické programování](/chapter1/20-logicke-programovani.md)
-
-
+* [Programové, výpočetní a informační systémy](programove-vypocetni-a-informacni-systemy.md)
 
