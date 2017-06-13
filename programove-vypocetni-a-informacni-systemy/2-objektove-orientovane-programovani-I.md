@@ -14,13 +14,11 @@
   * Dědičnost
   * Polymorfismus
 
-[OOP na Wikipedii:](https://cs.wikipedia.org/wiki/Objektov%C4%9B_orientovan%C3%A9_programov%C3%A1n%C3%AD)
+[OOP na Wikipedii:](https://cs.wikipedia.org/wiki/Objektově_orientované_programování)
 
-* [Zapouzdření](https://cs.wikipedia.org/wiki/Zapouzd%C5%99en%C3%AD_%28objektov%C4%9B_orientovan%C3%A9_programov%C3%A1n%C3%AD%29)
-* [Dědičnost](https://cs.wikipedia.org/wiki/D%C4%9Bdi%C4%8Dnost_%28objektov%C4%9B_orientovan%C3%A9_programov%C3%A1n%C3%AD%29)
-* [Polymorfizmus](https://cs.wikipedia.org/wiki/Polymorfismus_%28programov%C3%A1n%C3%AD%29)
-
-
+* [Zapouzdření](https://cs.wikipedia.org/wiki/Zapouzdření_%28objektově_orientované_programování%29)
+* [Dědičnost](https://cs.wikipedia.org/wiki/Dědičnost_%28objektově_orientované_programování%29)
+* [Polymorfizmus](https://cs.wikipedia.org/wiki/Polymorfismus_%28programování%29)
 
 ### Realizace uvedených principů OOP v C++ nebo Javě \(podle vlastní volby\).
 
@@ -31,6 +29,15 @@
 * [Dědičnost](https://is.muni.cz/auth/el/1433/podzim2016/PB162/um/printable/inheritance.html)
 * [Rozhraní](https://is.muni.cz/auth/el/1433/podzim2016/PB162/um/printable/interfaces.html)
 * [Abstraktní třídy](https://is.muni.cz/auth/el/1433/podzim2016/PB162/um/printable/abstract_classes.html)
+
+Klíčová slova v Jave:
+
+| modifikátor | Třída | Balík | Podtřída | Svět |
+| ---: | :---: | :---: | :---: | :---: |
+| _public_ | ano | ano | ano | ano |
+| _protected_ | ano | ano | ano | ne |
+| default \(žádný modifikátor\) | ano | ano | ne | ne |
+| _private_ | ano | ne | ne | ne |
 
 
 
