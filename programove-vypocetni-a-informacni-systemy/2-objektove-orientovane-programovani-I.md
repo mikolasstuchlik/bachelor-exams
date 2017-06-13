@@ -36,7 +36,7 @@ Klíčová slova v Jave:
 | ---: | :---: | :---: | :---: | :---: |
 | _public_ | ano | ano | ano | ano |
 | _protected_ | ano | ano | ano | ne |
-| default \(žádný modifikátor\) | ano | ano | ne | ne |
+| default \(žádný\) | ano | ano | ne | ne |
 | _private_ | ano | ne | ne | ne |
 
 
