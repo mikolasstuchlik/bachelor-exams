@@ -31,7 +31,7 @@
 
 ### Principy práce procesoru, přerušení.
 
-* [Zpracovaná orázka _Výpočetní systémy II_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap2):
+* [Zpracovaná otázka _Výpočetní systémy II_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap2):
 * _Procesor s přerušením_ ve [slidech z PB153](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_2.pdf) \(str 11\)
 * [Procesory, jejich parametry a architektury](http://statnice.dqd.cz/home:prog:ap2#procesory_jejich_parametry_a_architektury)
 
