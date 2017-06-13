@@ -27,7 +27,7 @@
 
 ### Von Neumannova architektura.
 
-* [Koncepce Johna von Neumanna v otáce _Výpočetní systémy II_](http://statnice.dqd.cz/home:prog:ap2#koncepce_johna_von_neumanna) na dqd.cz
+* [Koncepce Johna von Neumanna v otázce _Výpočetní systémy II_](http://statnice.dqd.cz/home:prog:ap2#koncepce_johna_von_neumanna) na dqd.cz
 
 ### Principy práce procesoru, přerušení.
 
