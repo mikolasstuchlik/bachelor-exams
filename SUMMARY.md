@@ -26,6 +26,8 @@
   * [1. Programovací jazyky](/programove-vypocetni-a-informacni-systemy/1-programovaci-jazyky.md)
   * [2. Objektově orientované programování I](/programove-vypocetni-a-informacni-systemy/2-objektove-orientovane-programovani-I.md)
   * [3. Objektově orientované programování II](/programove-vypocetni-a-informacni-systemy/3-objektove-orientovane-programovani-II.md)
+  * [4. Základní principy počítačů I](/programove-vypocetni-a-informacni-systemy/4-zakladni-principy-pocitacu-I.md)
+  * [5. Základní principy počítačů II](/programove-vypocetni-a-informacni-systemy/5-zakladni-principy-pocitacu-II.md)
 
 
 
