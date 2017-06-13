@@ -30,6 +30,8 @@
 * [Rozhraní](https://is.muni.cz/auth/el/1433/podzim2016/PB162/um/printable/interfaces.html)
 * [Abstraktní třídy](https://is.muni.cz/auth/el/1433/podzim2016/PB162/um/printable/abstract_classes.html)
 
+[Objektový návrh v Javě](https://kore.fi.muni.cz/wiki/index.php/Java:Objektov%C3%BD_n%C3%A1vrh_v_Jav%C4%9B) na kore.fi.muni.cz
+
 Klíčová slova v Jave:
 
 | modifikátor | Třída | Balík | Podtřída | Svět |
