@@ -24,7 +24,8 @@
   * [20. Logické programování](teoretické-základy-informatiky-a-matematika/20-logicke-programovani.md)
 * [Programové, výpočetní a informační systémy](programove-vypocetni-a-informacni-systemy.md)
   * [1. Programovací jazyky](/programove-vypocetni-a-informacni-systemy/1-programovaci-jazyky.md)
-  * [2. Objektově orientované programování](/programove-vypocetni-a-informacni-systemy/2-objektove-orientovane-programovani-I.md)
+  * [2. Objektově orientované programování I](/programove-vypocetni-a-informacni-systemy/2-objektove-orientovane-programovani-I.md)
+  * [3. Objektově orientované programování II](/programove-vypocetni-a-informacni-systemy/3-objektove-orientovane-programovani-II.md)
 
 
 
