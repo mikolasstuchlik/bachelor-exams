@@ -13,7 +13,7 @@
 * [Kombinační a sekvenční logické obvody](http://statnice.dqd.cz/home:prog:ap1#kombinacni_a_sekvencni_logicke_obvody)
 * [Sekvenční logické obvody](http://statnice.dqd.cz/home:prog:ap1#sekvencni_logicke_obvody)
 * Materiál z pb151 od doc. Brandejse- [slidy\]](http://www.fi.muni.cz/usr/brandejs/AP/brandejs_vypocetni_systemy_beamer.pdf)/[tisková verze](http://www.fi.muni.cz/usr/brandejs/AP/brandejs_vypocetni_systemy_print.pdf):
-  * 5. Obvody \(str 21\)
+  * 5.Obvody \(str 21\)
     * 5.6 Kombinační logické obvody - základní logické členy \(str 28\)
     * 5.7 Kombinační logické obvody - ostatní logické členy \(str 29\)
     * 5.8 Logické obvody \(str 30\)
