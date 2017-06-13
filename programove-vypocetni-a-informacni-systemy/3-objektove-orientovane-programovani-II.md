@@ -13,7 +13,7 @@
 * [Událostmi řízené programování](http://statnice.dqd.cz/home:prog:ap4#udalostmi_rizene_programovani)
 * [Výjimky](http://statnice.dqd.cz/home:prog:ap4#vyjimky)
 
-[SOLID principles na wikipedii](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+> [SOLID principles na wikipedii](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
 
 ### Realizace uvedených principů OOP v C++ nebo Javě \(podle vlastní volby\).
 
