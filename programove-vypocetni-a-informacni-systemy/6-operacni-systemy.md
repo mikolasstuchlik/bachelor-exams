@@ -20,7 +20,10 @@ Slidy z pb153:
 Slidy z pb153:
 
 * [I/O systém](https://is.muni.cz/auth/el/1433/jaro2016/PB153/um/pb153_12.pdf)
-* [Principy výstavby OS](https://is.muni.cz/auth/el/1433/jaro2016/PB153/um/pb153_4.pdf)
+  * hardware \(str 2\)
+  * techniky provádění I/O \(str 8\)
+  * aplikační rozhraní I/O \(str 14\)
+* [Něco málo o hardwaru](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_2.pdf)
 
 ### Procesy a vlákna, synchronizace procesů a vláken.
 
