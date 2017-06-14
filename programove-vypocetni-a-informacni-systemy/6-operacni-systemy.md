@@ -8,7 +8,7 @@
 
 ### Architektury operačních systémů, aplikační programovací rozhraní operačních systémů.
 
-* [Otázka _Operační systémy_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap5)
+[Otázka _Operační systémy_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap5)
 
 Slidy z pb153:
 
