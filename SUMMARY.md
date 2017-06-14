@@ -28,6 +28,9 @@
   * [3. Objektově orientované programování II](/programove-vypocetni-a-informacni-systemy/3-objektove-orientovane-programovani-II.md)
   * [4. Základní principy počítačů I](/programove-vypocetni-a-informacni-systemy/4-zakladni-principy-pocitacu-I.md)
   * [5. Základní principy počítačů II](/programove-vypocetni-a-informacni-systemy/5-zakladni-principy-pocitacu-II.md)
+  * [6. Operační systémy](/programove-vypocetni-a-informacni-systemy/6-operacni-systemy.md)
+  * [7. Plánování procesů](/programove-vypocetni-a-informacni-systemy/7-planovani-procesu.md)
+  * [8. Práce s pamětí](/programove-vypocetni-a-informacni-systemy/8-prace-s-pameti.md)
 
 
 
