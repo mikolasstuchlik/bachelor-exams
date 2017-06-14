@@ -20,9 +20,10 @@ Slidy z pb153:
 Slidy z pb153:
 
 * [I/O systém](https://is.muni.cz/auth/el/1433/jaro2016/PB153/um/pb153_12.pdf)
-  * hardware \(str 2\)
-  * techniky provádění I/O \(str 8\)
-  * aplikační rozhraní I/O \(str 14\)
+  * Hardware \(str 2\)
+  * Techniky provádění I/O \(str 8\)
+  * Aplikační rozhraní I/O \(str 14\)
+  * I/O subsystém v jádru \(str 26\) \(caching, spooling, rezervace\)
 * [Něco málo o hardwaru](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_2.pdf)
 
 ### Procesy a vlákna, synchronizace procesů a vláken.
@@ -30,6 +31,8 @@ Slidy z pb153:
 [Otázka _Operační systémy_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap5):
 
 * [Procesy](http://statnice.dqd.cz/home:prog:ap5#procesy)
+  * Co je to proces \(str 2\)
+  * Stavy procesů \(str 4\)
 * [Synchronizace procesů](http://statnice.dqd.cz/home:prog:ap5#synchronizace_procesu)
 
 [Otázka _Plánování v operačních systémech_](http://statnice.dqd.cz/home:prog:ap6)
