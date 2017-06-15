@@ -31,6 +31,10 @@
   * [6. Operační systémy](/programove-vypocetni-a-informacni-systemy/6-operacni-systemy.md)
   * [7. Plánování procesů](/programove-vypocetni-a-informacni-systemy/7-planovani-procesu.md)
   * [8. Práce s pamětí](/programove-vypocetni-a-informacni-systemy/8-prace-s-pameti.md)
+  * [9. Databáze I](/programove-vypocetni-a-informacni-systemy/9-databaze-I.md)
+  * [10. Databáze II](/programove-vypocetni-a-informacni-systemy/10-databaze-II.md)
+  * [11. SQL](/programove-vypocetni-a-informacni-systemy/11-sql.md)
+  * [12. Transakce a zpracování dotazů](/programove-vypocetni-a-informacni-systemy/12-transakce-a-zpracovani-dotazu.md)
 
 
 
