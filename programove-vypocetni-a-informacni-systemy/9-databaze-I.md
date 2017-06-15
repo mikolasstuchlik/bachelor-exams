@@ -10,6 +10,10 @@ Slidy z pb154:
 
 * [Intro to Relational Model](https://is.muni.cz/el/1433/podzim2016/PB154/um/02-ch2-relational-model.pdf)
 * [Formal Relational Query Languages](https://is.muni.cz/el/1433/podzim2016/PB154/um/03-ch6-formal-query-languages.pdf)
+  * Natural-Join Operation \(str 22\)
+  * Extended Relational-Algebtra -Operations \(str 32\)
+  * Generalized Projection \(str 33\)
+  * Agregate functions and Operations \(str 34\)
 
 Materiály ke cvičením z pb154:
 
