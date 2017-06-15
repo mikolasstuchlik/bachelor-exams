@@ -13,6 +13,9 @@ Slidy z pb153:
   * Hierarchie paměti \(str 22\)
   * Cache \(str 23\)
 * [Správa paměti](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_10.pdf)
+  * Správa paměti \(str 3\)
+  * Vázání adres - možnosti \(str 4\)
+  * Memory-management unit \(str 5\)
 
 ### Práce s pamětí, logický a fyzický adresový prostor, správa paměti, virtualizace paměti, segmentace, stránkování.
 
