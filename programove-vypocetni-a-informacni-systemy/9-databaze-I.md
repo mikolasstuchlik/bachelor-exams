@@ -4,7 +4,13 @@
 
 > PB154
 
-[Otázka _Databáze I_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap8)
+[Otázka _Databáze I_ na dqd.cz](http://statnice.dqd.cz/home:prog:ap8):
+
+* [Relační model dat](http://statnice.dqd.cz/home:prog:ap8#relacni_model_dat)
+* [Relační schéma](http://statnice.dqd.cz/home:prog:ap8#relacni_schema)
+* [Klíče relačních schémat](http://statnice.dqd.cz/home:prog:ap8#klice_relacnich_schemat)
+* [Relační algebra](http://statnice.dqd.cz/home:prog:ap8#relacni_algebra)
+* [Spojování relací](http://statnice.dqd.cz/home:prog:ap8#spojovani_relaci)
 
 Slidy z pb154:
 
