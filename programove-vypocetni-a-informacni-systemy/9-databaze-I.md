@@ -14,9 +14,16 @@ Slidy z pb154:
 Materiály ke cvičením z pb154:
 
 * Relační model a algebra \([text](https://is.muni.cz/auth/el/1433/podzim2014/PB154/worksheet/cv1-priprava-relAlgebra.pdf), [slidy](https://is.muni.cz/auth/el/1433/podzim2014/PB154/worksheet/cv1-cviceni-relAlgebra.pdf)\)
-  * Projekce \(slidy str 8\)
+  * Projekce \(slidy str 8\) \(Zobecněná na str 11\)
   * Selekce \(slidy str 6\)
+  * Přejmenování \(slidy str 10\)
+  * Sjednocení \(slidy str 13\)
+  * Rozdíl \(slidy str 14\)
+  * Modifikace databáze \(slidy str 16\)
+  * Kartézský součin \(slidy str 18\) 
 * Relační algebra a základy SQL \([text](https://is.muni.cz/auth/el/1433/podzim2014/PB154/worksheet/cv2-pripra-relAlgebra_SQL.pdf),[ slidy](https://is.muni.cz/auth/el/1433/podzim2014/PB154/worksheet/cv2-student-relAlgebra_SQL.pdf)\)
+  * Přirozené spojení \(slidy str 2\)
+  * Agregace \(slidy str 7\)
 
 
 
