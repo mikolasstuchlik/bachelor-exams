@@ -17,6 +17,7 @@ Slidy z pb153:
   * Vázání adres - možnosti \(str 4\)
   * Memory-management unit \(str 5\)
   * Adresový prostor \(str 7\) \(FAP x LAP\)
+  * Přidělování paměti \(str 18\)
 
 ### Práce s pamětí, logický a fyzický adresový prostor, správa paměti, virtualizace paměti, segmentace, stránkování.
 
