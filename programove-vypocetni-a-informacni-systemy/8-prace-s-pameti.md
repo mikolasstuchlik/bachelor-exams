@@ -9,7 +9,9 @@
 
 Slidy z pb153:
 
-* [Něco málo o hardwaru](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_2.pdf) \(Hierarchie paměti na str 22\)
+* [Něco málo o hardwaru](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_2.pdf):
+  * Hierarchie paměti \(str 22\)
+  * Cache \(str 23\)
 * [Správa paměti](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_10.pdf)
 
 ### Práce s pamětí, logický a fyzický adresový prostor, správa paměti, virtualizace paměti, segmentace, stránkování.
