@@ -1,4 +1,4 @@
-# 09. Databáze I
+# 9. Databáze I
 
 * Relační model dat, relační schéma, klíče relačních schémat, relační algebra \(projekce, selekce, agregace, přejmenování\), spojování relací.
 
