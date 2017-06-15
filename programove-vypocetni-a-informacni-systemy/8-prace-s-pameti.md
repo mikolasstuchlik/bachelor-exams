@@ -20,6 +20,7 @@ Slidy z pb153:
   * Přidělování paměti \(str 18\)
   * Stránkování \(str 20\)
   * Segmentování \(str 34\)
+* [Virtuální paměť](https://is.muni.cz/el/1433/jaro2016/PB153/um/pb153_11.pdf)
 
 ### Práce s pamětí, logický a fyzický adresový prostor, správa paměti, virtualizace paměti, segmentace, stránkování.
 
