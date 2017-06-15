@@ -14,6 +14,7 @@ Slidy z pb154:
   * Extended Relational-Algebtra -Operations \(str 32\)
   * Generalized Projection \(str 33\)
   * Agregate functions and Operations \(str 34\)
+  * Modification of the Database \(str 38\)
 
 Materiály ke cvičením z pb154:
 
