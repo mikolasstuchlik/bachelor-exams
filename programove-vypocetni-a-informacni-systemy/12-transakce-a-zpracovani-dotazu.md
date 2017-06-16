@@ -30,7 +30,9 @@ Slidy z pb154:
 * [Query Processing:](https://is.muni.cz/auth/el/1433/podzim2014/PB154/um/10-ch12-query-processing.pdf)
   * Basic Steps in Query Processing \(str 3\)
   * Optimalization \(str 5\)
-  * 
+* Query Optimization:
+
+  * Transformation of Relational Expressions \(str 7\)
 
 
 
