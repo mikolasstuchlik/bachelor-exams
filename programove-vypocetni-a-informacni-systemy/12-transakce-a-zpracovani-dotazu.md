@@ -1,6 +1,7 @@
 # 12. Transakce a zpracování dotazů
 
-* Transakční zpracování, jeho vlastnosti. Základní principy vyhodnocování dotazů \(náklady na vyhodnocení dotazu, využití indexování a hašování\).
+* Transakční zpracování, jeho vlastnosti.
+* Základní principy vyhodnocování dotazů \(náklady na vyhodnocení dotazu, využití indexování a hašování\).
 
 > PB154
 
