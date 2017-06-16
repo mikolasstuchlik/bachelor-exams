@@ -5,9 +5,9 @@
 
 > PB154
 
-[Otázka _SQL_ na  dqd.cz](statnice.dqd.cz/home:prog:ap10):
+[Otázka _SQL_ na  dqd.cz:](http://statnice.dqd.cz/home:prog:ap10)
 
-* [Transakce](statnice.dqd.cz/home:prog:ap10#transakce)
+* [Transakce](http://statnice.dqd.cz/home:prog:ap10#transakce)
 
 Slidy z pb154:
 
