@@ -5,6 +5,8 @@
 
 > PB154
 
+### Transakční zpracování, jeho vlastnosti.
+
 [Otázka _SQL_ na  dqd.cz:](http://statnice.dqd.cz/home:prog:ap10)
 
 * [Transakce](http://statnice.dqd.cz/home:prog:ap10#transakce)
@@ -21,5 +23,7 @@ Slidy z pb154:
   * Recoverable Schedules \(str 28\)
   * Transaction definition in SQL \(str 36\)
 
-[Něco o transakcích také na root.cz](https://www.root.cz/clanky/transakce-a-izolace-transakci-v-databazich/).
+### Základní principy vyhodnocování dotazů \(náklady na vyhodnocení dotazu, využití indexování a hašování\).
+
+
 
