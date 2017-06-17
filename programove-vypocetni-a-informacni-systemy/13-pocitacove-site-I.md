@@ -21,10 +21,12 @@ Slidy z pb156:
 * [1. Úvod do světa počítačových sítí](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture1.pdf):
   * ISO/OSI Model \(str 19\)
   * ISO/OSI Model vs. TCP/IP Model \(str 30\)
-* [2. Fyzická a linková vrstva](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture2.pdf):
-  * Tvorba rámců, adresace \(str 40\)
-* [3. Síťová vrstva](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture3.pdf):
-  * Adresace na L3 \(str 18\)
+
+Adresace:
+
+* [2. Fyzická a linková vrstva](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture2.pdf): Tvorba rámců, adresace \(str 40\)
+* [3. Síťová vrstva](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture3.pdf): Adresace na L3 \(str 18\)
+* [5. Transportní vrstva](https://is.muni.cz/el/1433/jaro2017/PB156/um/lecture5.pdf): Adresace na L4 \(str 15\)
 
 ### Fyzická vrstva, signály a jejich kódování, řízení přístupu k médiu.
 
