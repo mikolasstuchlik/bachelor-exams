@@ -35,6 +35,10 @@
   * [10. Databáze II](/programove-vypocetni-a-informacni-systemy/10-databaze-II.md)
   * [11. SQL](/programove-vypocetni-a-informacni-systemy/11-sql.md)
   * [12. Transakce a zpracování dotazů](/programove-vypocetni-a-informacni-systemy/12-transakce-a-zpracovani-dotazu.md)
+  * [13. Počítačové sítě I](/programove-vypocetni-a-informacni-systemy/13-pocitacove-site-I.md)
+  * [14. Počítačové sítě II](/programove-vypocetni-a-informacni-systemy/14-pocitacove-site-II.md)
+  * [15. Síťové aplikace a bezpečnost I](/programove-vypocetni-a-informacni-systemy/15-sitove-aplikace-a-bezpecnost-I.md)
+  * [16. Síťové aplikace a bezpečnost II](/programove-vypocetni-a-informacni-systemy/16-sitove-aplikace-a-bezpecnost-II.md)
 
 
 
