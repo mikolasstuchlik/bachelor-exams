@@ -25,7 +25,7 @@ Slidy z pb007:
 
 Slidy z pb007:
 
-* [Requirements specifiaction](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/02-RequirementsSpecification.pdf)
+* [2. equirements specifiaction](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/02-RequirementsSpecification.pdf)
   * Functional and no-functional requirements \(str 6\)
   * Requirements quality criteria \(str 7\)
   * The requirements engineering process \(str 9\):
