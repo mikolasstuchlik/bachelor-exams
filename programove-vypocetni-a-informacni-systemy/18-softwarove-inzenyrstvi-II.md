@@ -18,7 +18,7 @@ Slidy z pb007:
 
 Slidy z pb007:
 
-* [Evolution](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/10-Evolution.pdf):
+* [10. Evolution](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/10-Evolution.pdf):
   * Evolution Processes \(str 3\)
   * Lehman's laws \(str 10\)
   * Software Maintenance \(str 14\)
@@ -28,7 +28,7 @@ Slidy z pb007:
 
 Slidy z pb007:
 
-* [Software Development](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/01-SoftwareDevelopment.pdf):
+* [1. Software Development](https://is.muni.cz/el/1433/podzim2016/PB007/um/lec/01-SoftwareDevelopment.pdf):
   * UML in Software Development \(str 18\):
     * System perspectives \(str 20\)
     * UML diagram types \(str 21\)
