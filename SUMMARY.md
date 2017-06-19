@@ -39,6 +39,9 @@
   * [14. Počítačové sítě II](/programove-vypocetni-a-informacni-systemy/14-pocitacove-site-II.md)
   * [15. Síťové aplikace a bezpečnost I](/programove-vypocetni-a-informacni-systemy/15-sitove-aplikace-a-bezpecnost-I.md)
   * [16. Síťové aplikace a bezpečnost II](/programove-vypocetni-a-informacni-systemy/16-sitove-aplikace-a-bezpecnost-II.md)
+  * [17. Softwarové inženýrství I](/programove-vypocetni-a-informacni-systemy/17-softwarove-inzenyrstvi-I.md)
+  * [18. Softwarové inženýrství II](/programove-vypocetni-a-informacni-systemy/18-softwarove-inzenyrstvi-II.md)
+  * [19. Datové modelování](/programove-vypocetni-a-informacni-systemy/19-datove-modelovani.md)
 
 
 
