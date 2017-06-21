@@ -7,6 +7,8 @@
 
 [Skripta od doc. Hasila](http://user.mendelu.cz/hasil/Data/CZ/Teach/MU/MB102-MB202/prednasky_MB102.pdf)
 
+* Sírka --  [Vyšetřování průběhu funkce](https://is.muni.cz/do/sci/UMS/el/analyza/pages/prubeh-funkce.html)
+
 Slidy k M1101 \(použité i pro MB102/MB202\) taktéž od doc. Hasila:
 
 * [Množiny, číselné obory, funkce](http://user.mendelu.cz/hasil/Data/CZ/Teach/MU/01-ho.pdf)
