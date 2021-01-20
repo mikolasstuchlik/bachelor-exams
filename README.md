@@ -1,3 +1,8 @@
+## Pozor
+Tento repozitář je fork https://lachmanfrantisek.gitbooks.io/bachelor-exams/content/ který nefungoval.
+
+
+
 ## Bakalářské státnice
 
 Zpracované zdroje k bakalářským státnicovým otázkám na FI MUNI.
